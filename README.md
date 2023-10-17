@@ -60,9 +60,9 @@ This Vagrant project allows you to create a multi-node environment with a load b
 
 ## Usage
 
-1. Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
-2. In the project directory, open a terminal and run the following command to start the virtual machines:
+- In the project directory, open a terminal and run the following command to start the virtual machines:
 
    `vagrant up`
 
